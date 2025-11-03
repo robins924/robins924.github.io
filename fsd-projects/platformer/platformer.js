@@ -32,14 +32,13 @@ createPlatform(0, canvas.height - 32, canvas.width, 32);
 createPlatform(0, 0, 30, canvas.height);
 createPlatform(canvas.width - 30, 0, 30, canvas.height);
     // TODO 2 - Create Platforms
-createPlatform(150, 550, 100, 20);
-createPlatform(350, 480, 120, 20);
+createPlatform(150, 580, 100, 20);
+createPlatform(350, 480, 100, 20);
 createPlatform(600, 420, 100, 20);
-createPlatform(450, 300, 150, 20);
+createPlatform(450, 200, 250, 20);
 createPlatform(200, 200, 150, 20);
-
-createPlatform(700, 350, 40, 15);
-createPlatform(750, 300, 40, 15);
+createPlatform(800, 300, 40, 15);
+createPlatform(750, 360, 40, 15);
 createPlatform(100, 100, 200, 20);
 
 
